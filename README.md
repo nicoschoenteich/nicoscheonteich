@@ -18,9 +18,11 @@
 
 <p align='center'>
 I am a Developer Advocate at SAP, where I focus on (in exactly that order)
+</p>
 
+<br>
 
-<table align='center' cellspacing='0' cellpadding='0' border='0'>
+<table align='center'>
     <tr>
         <td align='center' width='150'>
             <img src='img/ui5.svg' width='100' />
