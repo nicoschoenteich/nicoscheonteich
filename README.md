@@ -19,28 +19,27 @@
 <p align='center'>
 I am a Developer Advocate at SAP, where I focus on (in exactly that order)
 
-<br>
-
-<div style='display: flex; justify-content: space-around;'>
+<p align='center'>
     <a href='https://ui5.sap.com/'>
-        <div style='display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100px;'>
-            <img src="img/ui5.svg" />
-            <span>UI5</span>
-        </div>
+        <img src="img/ui5.svg" width="100"/>
+        <br>
+        <span>UI5</span>
     </a>
+    <br>
+    <br>
     <a href='https://developers.sap.com/tutorials/cp-explore-cloud-platform.html'>
-        <div style='display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100px;'>
-            <img style='aspect-ratio: 1/1;' src="img/sap.svg" />
-            <span style='text-align: center;'>SAP Business Technology Platform</span>
-        </div>
+        <img style='aspect-ratio: 1/1;' src="img/sap.svg" width="100" />
+        <br>
+        <span style='text-align: center;'>SAP Business Technology Platform</span>
     </a>
+    <br>
+    <br>
     <a href='https://cap.cloud.sap/'>
-        <div style='display: flex; flex-direction: column; align-items: center; gap: 10px; width: 100px;'>
-            <img src="img/cap.svg" />
-            <span style='text-align: center;'>SAP Cloud Application Programming Model</span>
-        </div>
+        <img src="img/cap.svg" width="100" />
+        <br>
+        <span style='text-align: center;'>SAP Cloud Application Programming Model</span>
     </a>
-</div>
+</p>
 
 <br>
 <hr></hr>
