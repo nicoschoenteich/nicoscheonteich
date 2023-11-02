@@ -32,13 +32,19 @@ I am a Developer Advocate at SAP, where I help developers achieve their goals wi
 <table align='center'>
     <tr>
         <td align='center' width='150'>
-            <img src='img/ui5.svg' width='100' />
+            <a href='https://ui5.sap.com/'>
+                <img src='img/ui5.svg' width='100' />
+            </a>
         </td>
         <td align='center' width='150'>
-            <img src='img/sap.svg' width='100' />
+            <a href='https://developers.sap.com/tutorials/cp-explore-cloud-platform.html'>
+                <img src='img/sap.svg' width='100' />
+            </a>
         </td>
         <td align='center'  width='150'>
-            <img src='img/cap.svg'  width='100' />
+            <a href='https://cap.cloud.sap/'>
+                <img src='img/cap.svg'  width='100' />
+            </a>
         </td>
     </tr>
     <tr>
