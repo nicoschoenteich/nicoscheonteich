@@ -13,7 +13,7 @@
 <table align='center'>
     <tr>
         <td>
-            <img width='150' src='img/nico.png' />
+            <img src='https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/nicolai.geburek' height='146'>
         </td>
         <td>
             <img src='https://github-readme-stats.vercel.app/api?username=nicoschoenteich&show_icons=true&count_private=true&theme=dark' width='350'>
