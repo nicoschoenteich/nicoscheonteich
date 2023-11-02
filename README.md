@@ -24,7 +24,7 @@
 <br>
 
 <p align='center'>
-I am a Developer Advocate at SAP, where I focus on (in exactly that order)
+I am a Developer Advocate at SAP, where I help developers achieve their goals with SAP and non-SAP technology. I spend my days giving trainings, writing tutorials and sample code, producing videos, and speaking at conferences. My focus topics are (in exactly this order):
 </p>
 
 <br>
