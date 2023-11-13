@@ -15,6 +15,8 @@
         <td>
             <img src='https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/nicolai.geburek' height='146'>
         </td>
+    </tr>
+    <tr>
         <td>
             <img src='https://github-readme-stats.vercel.app/api?username=nicoschoenteich&show_icons=true&count_private=true&theme=dark' width='350'>
         </td>
@@ -24,7 +26,7 @@
 <br>
 
 <p align='center'>
-I am a <a href='https://developers.sap.com/developer-advocates.html'>Developer Advocate</a> at SAP, where I help developers achieve their goals with SAP and non-SAP technology. I spend my days giving trainings, writing tutorials and sample code, producing videos, and speaking at conferences. My focus topics are (in exactly this order):
+I am a <a href='https://developers.sap.com/developer-advocates.html'>Developer Advocate</a> at SAP, where I help developers achieve their goals with SAP and non-SAP technology. I spend my days giving trainings, writing tutorials and sample code, producing videos, and speaking at conferences. My focus topics are (in this order):
 </p>
 
 <br>
