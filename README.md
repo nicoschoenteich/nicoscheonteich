@@ -70,7 +70,7 @@ I am a <a href='https://developers.sap.com/developer-advocates.html'>Developer A
     <span>Feel free to contact me via</span>
     <br>
     <br>
-    <a href='https://www.linkedin.com/in/nico-schoenteich-b485011a3/'>
+    <a href='https://www.linkedin.com/in/nico-schoenteich/'>
         <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' />
     </a>&nbsp;&nbsp;
     <a href='https://twitter.com/NicoSchoenteich'>
