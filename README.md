@@ -8,8 +8,6 @@
     Welcome to my profile 🙋🏻‍♂️
 </p>
 
-<br>
-
 <!-- <table align='center'> -->
 <!--     <tr> -->
 <!--         <td align='center'> -->
